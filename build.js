@@ -1,0 +1,1 @@
+window.AcmeJS = AcmeJS = require('./index.js');
